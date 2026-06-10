@@ -7,7 +7,7 @@
   <title type="text">Coding for Good</title>
   <subtitle type="text">Technology in superhero style</subtitle>
 
-  <updated>2012-03-28T10:40:26Z</updated>
+  <updated>2012-05-10T15:17:28Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
   <link rel="alternate" type="text/html" href="http://filipovskii.github.com" />
@@ -18,133 +18,71 @@
       <name></name>
       <uri>http://filipovskii.github.com</uri>
     </author>
-    <title type="html"><![CDATA[Syntax highlight test]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/08/29/syntax-highlight-test" />
-    <id>http://filipovskii.github.com/2009/08/29/syntax-highlight-test</id>
-    <updated>2009-08-29T15:25:00Z</updated>
-    <published>2009-08-29T15:25:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="General Stuff" />
-    <summary type="html"><![CDATA[Syntax highlight test]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/08/29/syntax-highlight-test"><![CDATA[<p>This post contains some highlighted python code:</p>
-<div class="pygments_murphy"><pre><span class="kn">import</span> <span class="nn">this</span>
-
-<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;main&quot;</span><span class="p">:</span>
-    <span class="k">print</span> <span class="s">&quot;Hello, World!&quot;</span>
-</pre></div>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://filipovskii.github.com</uri>
-    </author>
-    <title type="html"><![CDATA[Post 7]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/08/29/post-7" />
-    <id>http://filipovskii.github.com/2009/08/29/post-7</id>
-    <updated>2009-08-29T15:25:00Z</updated>
-    <published>2009-08-29T15:25:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="General Stuff" />
-    <summary type="html"><![CDATA[Post 7]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/08/29/post-7"><![CDATA[<p>This is post #7
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://filipovskii.github.com</uri>
-    </author>
-    <title type="html"><![CDATA[Post 6]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/08/29/post-6" />
-    <id>http://filipovskii.github.com/2009/08/29/post-6</id>
-    <updated>2009-08-29T15:24:00Z</updated>
-    <published>2009-08-29T15:24:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="General Stuff" />
-    <summary type="html"><![CDATA[Post 6]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/08/29/post-6"><![CDATA[<p>This is post #6</p>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://filipovskii.github.com</uri>
-    </author>
-    <title type="html"><![CDATA[Post 5]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/08/29/post-5" />
-    <id>http://filipovskii.github.com/2009/08/29/post-5</id>
-    <updated>2009-08-29T15:23:00Z</updated>
-    <published>2009-08-29T15:23:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="General Stuff" />
-    <summary type="html"><![CDATA[Post 5]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/08/29/post-5"><![CDATA[<p>This is post #5</p>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://filipovskii.github.com</uri>
-    </author>
-    <title type="html"><![CDATA[Post 4]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/08/29/post-4" />
-    <id>http://filipovskii.github.com/2009/08/29/post-4</id>
-    <updated>2009-08-29T15:22:00Z</updated>
-    <published>2009-08-29T15:22:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="General Stuff" />
-    <summary type="html"><![CDATA[Post 4]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/08/29/post-4"><![CDATA[<p>This is post #4</p>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://filipovskii.github.com</uri>
-    </author>
-    <title type="html"><![CDATA[Post 3 - Unicode Test - How about some 日本語テスト]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/08/22/post-3---unicode-test---how-about-some-日本語テスト" />
-    <id>http://filipovskii.github.com/2009/08/22/post-3---unicode-test---how-about-some-日本語テスト</id>
-    <updated>2009-08-22T15:22:00Z</updated>
-    <published>2009-08-22T15:22:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="Unicode" />
-    <summary type="html"><![CDATA[Post 3 - Unicode Test - How about some 日本語テスト]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/08/22/post-3---unicode-test---how-about-some-日本語テスト"><![CDATA[<p>Anglo-Saxon Rune Poem:</p>
-<p>ᚠᛇᚻ᛫ᛒᛦᚦ᛫ᚠᚱᚩᚠᚢᚱ᛫ᚠᛁᚱᚪ᛫ᚷᛖᚻᚹᛦᛚᚳᚢᛗ
-ᛋᚳᛖᚪᛚ᛫ᚦᛖᚪᚻ᛫ᛗᚪᚾᚾᚪ᛫ᚷᛖᚻᚹᛦᛚᚳ᛫ᛗᛁᚳᛚᚢᚾ᛫ᚻᛦᛏ᛫ᛞᚫᛚᚪᚾ
-ᚷᛁᚠ᛫ᚻᛖ᛫ᚹᛁᛚᛖ᛫ᚠᚩᚱ᛫ᛞᚱᛁᚻᛏᚾᛖ᛫ᛞᚩᛗᛖᛋ᛫ᚻᛚᛇᛏᚪᚾ᛬</p>
-<p>Tamil poetry:</p>
-<p>யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம்,
-பாமரராய் விலங்குகளாய், உலகனைத்தும் இகழ்ச்சிசொலப் பான்மை கெட்டு,
-நாமமது தமிழரெனக் கொண்டு இங்கு வாழ்ந்திடுதல் நன்றோ? சொல்லீர்!
-தேமதுரத் தமிழோசை உலகமெலாம் பரவும்வகை செய்தல் வேண்டும்.</p>
-<p>I can eat glass:
-私はガラスを食べられます。それは私を傷つけません。
-Կրնամ ապակի ուտել և ինծի անհանգիստ չըներ։
-I kå Glas frässa, ond des macht mr nix!
-᚛᚛ᚉᚑᚅᚔᚉᚉᚔᚋ ᚔᚈᚔ ᚍᚂᚐᚅᚑ ᚅᚔᚋᚌᚓᚅᚐ᚜
-אני יכול לאכול זכוכית וזה לא מזיק לי
-काचं शक्नोम्यत्तुम् । नोपहिनस्ति माम् ॥ </p>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://filipovskii.github.com</uri>
-    </author>
-    <title type="html"><![CDATA[Post 2]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/07/24/post-2" />
-    <id>http://filipovskii.github.com/2009/07/24/post-2</id>
-    <updated>2009-07-24T16:20:00Z</updated>
-    <published>2009-07-24T16:20:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="Category 2" />
-    <category scheme="http://filipovskii.github.com" term="Category 1" />
-    <summary type="html"><![CDATA[Post 2]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/07/24/post-2"><![CDATA[<p>This is post #2</p>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://filipovskii.github.com</uri>
-    </author>
-    <title type="html"><![CDATA[Post 1]]></title>
-    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2009/07/23/post-1" />
-    <id>http://filipovskii.github.com/2009/07/23/post-1</id>
-    <updated>2009-07-23T15:22:00Z</updated>
-    <published>2009-07-23T15:22:00Z</published>
-    <category scheme="http://filipovskii.github.com" term="Category 1" />
-    <summary type="html"><![CDATA[Post 1]]></summary>
-    <content type="html" xml:base="http://filipovskii.github.com/2009/07/23/post-1"><![CDATA[<p>This is post #1</p>]]></content>
+    <title type="html"><![CDATA[It's on!]]></title>
+    <link rel="alternate" type="text/html" href="http://filipovskii.github.com/2012/04/01/it's-on!" />
+    <id>http://filipovskii.github.com/2012/04/01/it's-on!</id>
+    <updated>2012-04-01T00:00:00Z</updated>
+    <published>2012-04-01T00:00:00Z</published>
+    <category scheme="http://filipovskii.github.com" term="Blogging" />
+    <summary type="html"><![CDATA[It's on!]]></summary>
+    <content type="html" xml:base="http://filipovskii.github.com/2012/04/01/it's-on!"><![CDATA[<p>In life of every developer there is a time, when you are no longer able to keep all that crap in mind. Algorithms and data structures, programming languages, frameworks and methodologies, VIM hotkeys, grocery lists ... aggrhh!! In such moments you either have to get rid of part of the knowledge, or come up with new ways of arranging and storing it. There are 2-3 workbooks in my backpack for such case in my backpack all the time, scribbled with fragments of lectures, problem solvings, pieces of code and simple discussions about the nature of all things. And it solves some part of the problem. But workbooks wear out, burn and sometimes dissapear for no reason.. Things get even worth if you want to share the knowledge with somebody. So, sooner or later, every developer starts a blog. Same happened to me this spring.</p>
+<p>Of course, there are dozens of specialized resources, like <code>livejournal</code> or <code>wordpress</code>. But didn't want to mess with those: design is typically overloaded, you have to make it up with ads or get a paid account. This is not a geek-way. So I've decided to make it all by myself. I'll show you how further. Here is the stack, I've used:</p>
+<ul>
+<li><a href="http://www.blogofile.com/">blogofile</a> python-powered site compiler</li>
+<li><a href="http://html5boilerplate.com/">html5 boilerplate</a> HTML/CSS/JS template</li>
+<li><a href="http://twitter.github.com/bootstrap/">twitter bootstrap</a> my favourite CSS framework</li>
+<li><a href="http://pages.github.com/">github pages</a> free hosting</li>
+</ul>
+<h2>Blogofile</h2>
+<p>Blogofile is a static site compiler, initially made up for blogs. It comes with such tasty things as <a href="http://daringfireball.net/projects/markdown/">markdown</a> (textile, reStructuredText) markup, <a href="http://disqus.com/">disqus</a> comment system, syntax highlighting and lots more out of the box. There will be even more in the <a href="http://www.blogofile.com/blog/2011/04/30/preview-of-blogofile-0.8/">next version</a>. Furthermore, it has nice and clean API, so there will be no problems in adding new functions. Simple blog, generated by <code>blogofile init simple blog</code> has the <a href="https://github.com/filipovskii/filipovskii.github.com/tree/blogofile_init/src">following structure</a>:</p>
+<pre><code>.
+├── _config.py
+├── _controllers
+│   ├── blog
+│   │   ├── chronological.py
+│   │   ...
+│   │   └── post.py
+│   └── org.py
+├── _filters
+│   ├── markdown_template.py
+│   ...
+│   └── textile_template.py
+├── index.html.mako
+├── _posts
+│   ├── 001 - post 1.markdown
+|   ...
+│   └── 008 - post 8 - syntax highlight.markdown
+└── _templates
+    ├── atom.mako
+    ...
+    └── site.mako
+</code></pre>
+<ul>
+<li>
+<p>Everything should be clear with <em>posts</em>. They contain yaml-header and some content, written with your favourite markup language.</p>
+</li>
+<li>
+<p><em>Controllers</em> generate static content. Suppose you want a page, that will contain a sequence of blog posts, listed in reverse chronological order, paginated 5 posts per page - that what <em>controller</em> should be written for. And in a simple blog, we already have that one - <code>chronological.py</code>.</p>
+</li>
+<li>
+<p><em>Filters</em> are methods of transforming content. E.g. <code>markdown_template.py</code> converts markdown markup into html.</p>
+</li>
+<li>
+<p><em>Templates</em> define site appearence. Blogofile uses <a href="http://www.makotemplates.org/">Mako</a> for this.</p>
+</li>
+<li>
+<p><em>_config.py</em> contains site preferences. For example, <a href="http://www.disqus.com">disqus</a> should be turned on there.</p>
+</li>
+</ul>
+<h2>html5 boilerplate and twitter bootstrap</h2>
+<p>This tools are way more popular than blogofile, so I won't tell much about them. You can read about <code>html5 boilerplate</code> on <a href="http://html5boilerplate.com/">there site</a>. And <a href="https://github.com/filipovskii/filipovskii.github.com/tree/boilerplate">here</a> is a github branch with the result of adding it to the blog.</p>
+<p><code>Bootstrap</code> is also <a href="http://twitter.github.com/bootstrap/">very well documented</a>, easy to use and customize. Grab the <a href="https://github.com/filipovskii/filipovskii.github.com/tree/bootstrap">branch</a>.</p>
+<h2>Github pages</h2>
+<p><a href="http://pages.github.com/">Github pages</a> is a free hosting of static content. Idea behind the project is to give an opportunity to place some info about you or your GitHub project. It supports <a href="https://github.com/mojombo/jekyll">Jekyll</a>, another static site compiler, by default. This one is written in Ruby and is definitely worth a look.</p>
+<p>Service can be used for user and project pages. In order to create user page, you have to make a repo with the name like <code>[your-github-username].github.com</code>, commit file <code>index.html</code> to its master branch and push it to GitHub. Over time, this file will be published here: <code>http://[your-github-username].github.com/</code>.</p>
+<p>Project page can be created with generator, or manually by creating <code>gh-pages</code> branch of your project.</p>
+<p>You can learn more about this project <a href="http://help.github.com/pages/">here</a>.</p>
+<h2>Instead of conclusion</h2>
+<p>I've found, what I was looking for. With given stack, it became possible to create simple, customizable, cute blog. My future plans are to learn this thing to generate <code>pdf</code>, <code>epub</code> or <code>mobi</code> content, work on it's design and, hopefully, start writing regularly. But for now, it had been much more interesting to create this blog, then to write something in it ... maybe blogging is not for me..?</p>]]></content>
   </entry>
 </feed>
