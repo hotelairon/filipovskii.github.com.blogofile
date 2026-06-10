@@ -93,7 +93,7 @@ but I've wrote some code, so you could do it.
 First, you have to create a session for user. There is a `create_session()`
 method for that. The most valuable part of it looks like this:
 
-$$code(lang=python)
+$$code(lang=python, style=monokai)
 token_url = _make_request_url(method='auth.gettoken',
                           api_key=API_KEY)
 token_response = urllib.urlopen(token_url)
